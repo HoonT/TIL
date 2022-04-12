@@ -1,2 +1,0 @@
-# TIL
-problem-solving
