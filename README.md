@@ -7,4 +7,9 @@
  
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=wbkhkyg&theme=warm)](https://solved.ac/profile/wbkhkyg)
 
+ ---
+ 
+  ## 백준 / [단계별로 풀어보기](https://www.acmicpc.net/step) / 2022
+ 
+ 
 [boj](https://github.com/HoonT/TIL/blob/main/algorithm/boj)
