@@ -1,6 +1,3 @@
-# TIL
-problem-solving
-
 <div align="center">
 
 ## 백준(BOJ) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
