@@ -15,3 +15,5 @@ while t <= a:
 import sys
 input()
 s = list(sum(map(int, n.split())) for n in sys.stdin)
+for n in s:
+    print(n)
