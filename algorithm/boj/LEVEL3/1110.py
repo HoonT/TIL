@@ -10,5 +10,27 @@ N이 주어졌을 때, N의 사이클의 길이를 구하는 프로그램을 작
 '''
 
 # 내 풀이
+import sys
+input = sys.stdin.readline
 
+a = int(input())
+start = a
+n = 0
+
+while True:
+    b = a%10
+    c = ((a//10) + (a%10))%10
+    a = b*10 + c
+    n += 1
+    if a == start:
+        print(n)
+        break
 # 모범 답안
+N = int(input())
+n = -1
+t = 0
+while n != N:
+	if n == -1: n = N
+	n = (n//10 + n%10)%10 + (n%10)*10
+	t += 1
+print(t)
