@@ -23,7 +23,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2557][2557] | Hello World |  |  |
+ | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2557][2557] | Hello World |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10718][10718] | We love kriii |  |  |
 | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10171][10171] | 고양이 |  |  |
 | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10172][10172] | 개 |  |  |
