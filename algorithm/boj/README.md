@@ -65,21 +65,20 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1065][1065] | 한수 |  | ✔ |
 
 ---
-
 ### 문자열
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [11654][11654] | 정수 N개의 합 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11720][11720] | 셀프 넘버 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10809][10809] | 한수 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2675][2675] | 아스키 코드 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1157][1157] | 숫자의 합 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 알파벳 찾기 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 문자열 반복 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [5622][5622] | 단어 공부 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2941][2941] | 단어의 개수 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1316][1316] | 상수 |  | ✔ |
+ | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [11654][11654] | 아스키 코드 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [11720][11720] | 숫자의 합 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10809][10809] | 알파벳 찾기 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2675][2675] | 문자열 반복 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1157][1157] | 단어 공부 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 단어의 개수 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 상수 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [5622][5622] | 다이얼 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2941][2941] | 크로아티아 알파벳 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1316][1316] | 그룹 단어 체커 |  |  |
 
 ---
 
@@ -87,14 +86,18 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1712][1712] | 정수 N개의 합 |  |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2292][2292] | 셀프 넘버 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1193][1193] | 한수 |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2869][2869] | 아스키 코드 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10250][10250] | 숫자의 합 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2775][2775] | 알파벳 찾기 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2839][2839] | 문자열 반복 |  |  |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [10757][10757] | 단어 공부 |  |  |
+ | <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1712][1712] | 손익분기점 |  |  |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2292][2292] | 벌집 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1193][1193] | 분수찾기 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2869][2869] | 달팽이는 올라가고 싶다 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10250][10250] | ACM 호텔 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2775][2775] | 부녀회장이 될테야 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2839][2839] | 설탕 배달 |  |  |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10757][10757] | 큰 수 A+B |  |  |
+
+---
+
+
 <!-- ### -->
 
 </div>
