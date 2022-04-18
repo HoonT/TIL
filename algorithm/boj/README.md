@@ -26,19 +26,19 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2557][2557] | Hello World |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10718][10718] | We love kriii |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10171][10171] | 고양이 |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10172][10172] | 개 |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [1000][1000] | A+B |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [1001][1001] | A-B |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10998][10998] | A×B |  |  |
-| <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1008][1008] | A/B |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10869][10869] | 사칙연산 |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10926][10926] | ??! |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [18108][18108] | 1998년생인 내가 태국에서는 2541년생?! |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10430][10430] | 나머지 |  |  |
-| <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [2588][2588] | 곱셈 |  |  |
+ | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2557][2557] | Hello World |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10718][10718] | We love kriii |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10171][10171] | 고양이 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10172][10172] | 개 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [1000][1000] | A+B |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [1001][1001] | A-B |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10998][10998] | A×B |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1008][1008] | A/B |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10869][10869] | 사칙연산 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10926][10926] | ??! |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [18108][18108] | 1998년생인 내가 태국에서는 2541년생?! |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10430][10430] | 나머지 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [2588][2588] | 곱셈 |  | ✔ |
 
 ---
 
@@ -46,13 +46,13 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10818][10818] | 최소, 최대 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2562][2562] | 최댓값 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2577][2577] | 숫자의 개수 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [3052][3052] | 나머지 |  |  |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1546][1546] | 평균 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [8958][8958] | OX퀴즈 |  |  |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [4344][4344] | 평균은 넘겠지 |  |  |
+ | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10818][10818] | 최소, 최대 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2562][2562] | 최댓값 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2577][2577] | 숫자의 개수 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [3052][3052] | 나머지 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1546][1546] | 평균 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [8958][8958] | OX퀴즈 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [4344][4344] | 평균은 넘겠지 |  | ✔ |
 
 ---
 
@@ -60,9 +60,9 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [15596][15596] | 정수 N개의 합 |  |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [4673][4673] | 셀프 넘버 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1065][1065] | 한수 |  |  |
+ | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [15596][15596] | 정수 N개의 합 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [4673][4673] | 셀프 넘버 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1065][1065] | 한수 |  | ✔ |
 
 ---
 
@@ -70,16 +70,16 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [11654][11654] | 정수 N개의 합 |  |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11720][11720] | 셀프 넘버 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10809][10809] | 한수 |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2675][2675] | 아스키 코드 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1157][1157] | 숫자의 합 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 알파벳 찾기 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 문자열 반복 |  |  |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [5622][5622] | 단어 공부 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2941][2941] | 단어의 개수 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1316][1316] | 상수 |  |  |
+ | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [11654][11654] | 정수 N개의 합 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11720][11720] | 셀프 넘버 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10809][10809] | 한수 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [2675][2675] | 아스키 코드 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1157][1157] | 숫자의 합 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 알파벳 찾기 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 문자열 반복 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [5622][5622] | 단어 공부 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2941][2941] | 단어의 개수 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1316][1316] | 상수 |  | ✔ |
 
 ---
 
