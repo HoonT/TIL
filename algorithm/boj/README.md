@@ -77,7 +77,7 @@
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 단어의 개수 |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 상수 |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [5622][5622] | 다이얼 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2941][2941] | 크로아티아 알파벳 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2941][2941] | 크로아티아 알파벳 | 04.18 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1316][1316] | 그룹 단어 체커 |  |  |
 
 ---
