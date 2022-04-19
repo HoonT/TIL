@@ -86,8 +86,8 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1712][1712] | 손익분기점 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2292][2292] | 벌집 |  |  |
+ | <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1712][1712] | 손익분기점 | 04.19 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2292][2292] | 벌집 | 04.19 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1193][1193] | 분수찾기 |  |  |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2869][2869] | 달팽이는 올라가고 싶다 |  |  |
 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10250][10250] | ACM 호텔 |  |  |
