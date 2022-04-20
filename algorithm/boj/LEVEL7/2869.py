@@ -10,5 +10,21 @@
 '''
 
 # 내 풀이
+a, b, c = list(map(int, input().split()))
 
+d = (c-a)//(a-b)
+
+if a == c:
+    print(1)
+elif a-b == 1:
+    print(d+1)
+elif c-a < a-b:
+    print(2)
+elif (d-1)*(a-b) <= c-a and c-a <= d*(a-b):
+    print(d+1)
+elif d*(a-b) < c-a:
+    print(d+2)
+    
 # 모범 답안
+a, b, c = map(int, input().split())
+print((c-b-1) // (a-b) +1)
