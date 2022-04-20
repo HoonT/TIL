@@ -69,14 +69,14 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [11654][11654] | 아스키 코드 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [11720][11720] | 숫자의 합 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10809][10809] | 알파벳 찾기 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2675][2675] | 문자열 반복 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1157][1157] | 단어 공부 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 단어의 개수 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 상수 |  | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [5622][5622] | 다이얼 |  | ✔ |
+ | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [11654][11654] | 아스키 코드 | 04.15 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [11720][11720] | 숫자의 합 | 04.15 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10809][10809] | 알파벳 찾기 | 04.15 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2675][2675] | 문자열 반복 | 04.15 | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1157][1157] | 단어 공부 | 04.16 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [1152][1152] | 단어의 개수 | 04.17 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2908][2908] | 상수 | 04.17 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [5622][5622] | 다이얼 | 04.17 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2941][2941] | 크로아티아 알파벳 | 04.18 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1316][1316] | 그룹 단어 체커 | 04.18 | ✔ |
 
@@ -86,8 +86,8 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1712][1712] | 손익분기점 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2292][2292] | 벌집 |  |  |
+ | <img src="https://static.solved.ac/tier_small/2.svg" width="20px" height="25px"></img> | [1712][1712] | 손익분기점 | 04.19 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2292][2292] | 벌집 | 04.19 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1193][1193] | 분수찾기 |  |  |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2869][2869] | 달팽이는 올라가고 싶다 |  |  |
 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10250][10250] | ACM 호텔 |  |  |
