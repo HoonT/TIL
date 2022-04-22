@@ -90,8 +90,8 @@
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2292][2292] | 벌집 | 04.19 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [1193][1193] | 분수찾기 | 04.20 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2869][2869] | 달팽이는 올라가고 싶다 | 04.20 | ✔ |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10250][10250] | ACM 호텔 |  |  |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2775][2775] | 부녀회장이 될테야 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10250][10250] | ACM 호텔 | 04.21 | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2775][2775] | 부녀회장이 될테야 | 04.21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2839][2839] | 설탕 배달 |  |  |
 | <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10757][10757] | 큰 수 A+B |  |  |
 
