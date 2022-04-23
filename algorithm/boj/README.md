@@ -18,6 +18,8 @@
 | [함수](#함수) |
 | [문자열](#문자열) |
 | [기본 수학 1](#기본-수학-1) |
+| [기본 수학 2](#기본-수학-2) |
+| [재귀](#재귀) |
 <!-- Contents -->
 
 ---
@@ -92,11 +94,37 @@
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2869][2869] | 달팽이는 올라가고 싶다 | 04.20 | ✔ |
 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10250][10250] | ACM 호텔 | 04.21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2775][2775] | 부녀회장이 될테야 | 04.21 | ✔ |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2839][2839] | 설탕 배달 |  |  |
-| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10757][10757] | 큰 수 A+B |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2839][2839] | 설탕 배달 | 04.22 | ✔ |
+| <img src="https://static.solved.ac/tier_small/1.svg" width="20px" height="25px"></img> | [10757][10757] | 큰 수 A+B | 04.22 | ✔ |
 
 ---
 
+### 기본 수학 2
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1978][1978] | 소수 찾기 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2581][2581] | 소수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11653][11653] | 소인수분해 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1929][1929] | 소수 구하기 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [4948][4948] | 베르트랑 공준 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [9020][9020] | 골드바흐의 추측 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [1085][1085] | 직사각형에서 탈출 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3009][3009] | 네 번째 점 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [4153][4153] | 직각삼각형 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3053][3053] | 택시 기하학 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1002][1002] | 터렛 |  |  |
+
+---
+
+### 재귀
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10872][10872] | 팩토리얼 |  |  |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10870][10870] | 피보나치 수 5 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2447][2447] | 별 찍기 - 10 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11729][11729] | 하노이 탑 이동 순서 |  |  |
 
 <!-- ### -->
 
@@ -147,3 +175,20 @@
 [2775]: https://www.acmicpc.net/problem/2775
 [2839]: https://www.acmicpc.net/problem/2839
 [10757]: https://www.acmicpc.net/problem/10757
+
+[1978]: https://www.acmicpc.net/problem/1978
+[2581]: https://www.acmicpc.net/problem/2581
+[11653]: https://www.acmicpc.net/problem/11653
+[1929]: https://www.acmicpc.net/problem/1929
+[4948]: https://www.acmicpc.net/problem/4948
+[9020]: https://www.acmicpc.net/problem/9020
+[1085]: https://www.acmicpc.net/problem/1085
+[3009]: https://www.acmicpc.net/problem/3009
+[4153]: https://www.acmicpc.net/problem/4153
+[3053]: https://www.acmicpc.net/problem/3053
+[1002]: https://www.acmicpc.net/problem/1002
+
+[10872]: https://www.acmicpc.net/problem/10872
+[10870]: https://www.acmicpc.net/problem/10870
+[2447]: https://www.acmicpc.net/problem/2447
+[11729]: https://www.acmicpc.net/problem/11729
