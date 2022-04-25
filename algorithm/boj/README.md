@@ -104,8 +104,8 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1978][1978] | 소수 찾기 | 04.23 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2581][2581] | 소수 |  |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11653][11653] | 소인수분해 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2581][2581] | 소수 | 04.24 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11653][11653] | 소인수분해 | 04.25 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1929][1929] | 소수 구하기 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [4948][4948] | 베르트랑 공준 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [9020][9020] | 골드바흐의 추측 |  |  |
