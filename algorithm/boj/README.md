@@ -20,6 +20,7 @@
 | [기본 수학 1](#기본-수학-1) |
 | [기본 수학 2](#기본-수학-2) |
 | [재귀](#재귀) |
+| [브루트 포스](#브루트-포스) |
 <!-- Contents -->
 
 ---
@@ -106,12 +107,12 @@
  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1978][1978] | 소수 찾기 | 04.23 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2581][2581] | 소수 | 04.24 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11653][11653] | 소인수분해 | 04.25 | ✔ |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1929][1929] | 소수 구하기 |  |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [4948][4948] | 베르트랑 공준 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [9020][9020] | 골드바흐의 추측 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [1085][1085] | 직사각형에서 탈출 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3009][3009] | 네 번째 점 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [4153][4153] | 직각삼각형 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1929][1929] | 소수 구하기 | 04.26 | ✔ |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [4948][4948] | 베르트랑 공준 | 04.27 | ✔ |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [9020][9020] | 골드바흐의 추측 | 04.28 | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [1085][1085] | 직사각형에서 탈출 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3009][3009] | 네 번째 점 | 04.28 | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [4153][4153] | 직각삼각형 |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3053][3053] | 택시 기하학 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1002][1002] | 터렛 |  |  |
 
@@ -126,6 +127,17 @@
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2447][2447] | 별 찍기 - 10 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11729][11729] | 하노이 탑 이동 순서 |  |  |
 
+---
+
+### 브루트 포스
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2798][2798] | 블랙잭 |  |  |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2231][2231] | 분해합 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1018][1018] | 체스판 다시 칠하기 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1436][1436] | 영화감독 숌 |  |  |
 <!-- ### -->
 
 </div>
@@ -192,3 +204,10 @@
 [10870]: https://www.acmicpc.net/problem/10870
 [2447]: https://www.acmicpc.net/problem/2447
 [11729]: https://www.acmicpc.net/problem/11729
+
+[2798]: https://www.acmicpc.net/problem/2798
+[2231]: https://www.acmicpc.net/problem/2231
+[7568]: https://www.acmicpc.net/problem/7568
+[1018]: https://www.acmicpc.net/problem/1018
+[1436]: https://www.acmicpc.net/problem/1436
+
