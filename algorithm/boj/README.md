@@ -122,9 +122,9 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10872][10872] | 팩토리얼 |  |  |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10870][10870] | 피보나치 수 5 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2447][2447] | 별 찍기 - 10 |  |  |
+ | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10872][10872] | 팩토리얼 | 04.29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10870][10870] | 피보나치 수 5 | 04.29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2447][2447] | 별 찍기 - 10 | 04.29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11729][11729] | 하노이 탑 이동 순서 |  |  |
 
 ---
