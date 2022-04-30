@@ -124,6 +124,7 @@
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [10872][10872] | 팩토리얼 | 04.29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [10870][10870] | 피보나치 수 5 | 04.29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [17478][17478] | 재귀함수가 뭔가요? | 04.30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2447][2447] | 별 찍기 - 10 | 04.29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11729][11729] | 하노이 탑 이동 순서 | 04.29 | ✔ |
 
@@ -202,6 +203,7 @@
 
 [10872]: https://www.acmicpc.net/problem/10872
 [10870]: https://www.acmicpc.net/problem/10870
+[17478]: https://www.acmicpc.net/problem/17478
 [2447]: https://www.acmicpc.net/problem/2447
 [11729]: https://www.acmicpc.net/problem/11729
 
