@@ -21,6 +21,8 @@
 | [기본 수학 2](#기본-수학-2) |
 | [재귀](#재귀) |
 | [브루트 포스](#브루트-포스) |
+| [정렬](#정렬) |
+| [정수론 및 조합론](#정수론-및-조합론) |
 <!-- Contents -->
 
 ---
@@ -139,6 +141,42 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 | 05.01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1018][1018] | 체스판 다시 칠하기 | 05.02 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1436][1436] | 영화감독 숌 |  |  |
+
+---
+
+### 정렬
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2750][2750] | 수 정렬하기 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2751][2751] | 수 정렬하기 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10989][10989] | 수 정렬하기 3 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2108][2108] | 통계학 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1427][1427] | 소트인사이드 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11650][11650] | 좌표 정렬하기 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11651][11651] | 좌표 정렬하기 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1181][1181] | 단어 정렬 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10814][10814] | 나이순 정렬 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [18870][18870] | 좌표 압축 |  |  |
+
+---
+
+### 정수론 및 조합론
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [5086][5086] | 배수와 약수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1037][1037] | 약수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2609][2609] | 최대공약수와 최소공배수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1934][1934] | 최소공배수 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2981][2981] | 검문 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [3036][3036] | 링 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [11050][11050] | 이항 계수 1 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11051][11051] | 이항 계수 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1010][1010] | 다리 놓기 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9375][9375] | 패션왕 신해빈 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2004][2004] | 조합 0의 개수 |  |  |
 <!-- ### -->
 
 </div>
@@ -213,3 +251,26 @@
 [1018]: https://www.acmicpc.net/problem/1018
 [1436]: https://www.acmicpc.net/problem/1436
 
+[2750]: https://www.acmicpc.net/problem/2750
+[2751]: https://www.acmicpc.net/problem/2751
+[10989]: https://www.acmicpc.net/problem/10989
+[2108]: https://www.acmicpc.net/problem/2108
+[1427]: https://www.acmicpc.net/problem/1427
+[11650]: https://www.acmicpc.net/problem/11650
+[11651]: https://www.acmicpc.net/problem/11651
+[1181]: https://www.acmicpc.net/problem/1181
+[10814]: https://www.acmicpc.net/problem/10814
+[18870]: https://www.acmicpc.net/problem/18870
+
+[5086]: https://www.acmicpc.net/problem/5086
+[1037]: https://www.acmicpc.net/problem/1037
+[2609]: https://www.acmicpc.net/problem/2609
+[1934]: https://www.acmicpc.net/problem/1934
+[2981]: https://www.acmicpc.net/problem/2981
+[3036]: https://www.acmicpc.net/problem/3036
+[11050]: https://www.acmicpc.net/problem/11050
+[11051]: https://www.acmicpc.net/problem/11051
+[1010]: https://www.acmicpc.net/problem/1010
+[9375]: https://www.acmicpc.net/problem/9375
+[1676]: https://www.acmicpc.net/problem/1676
+[2004]: https://www.acmicpc.net/problem/2004
