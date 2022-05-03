@@ -140,7 +140,7 @@
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2231][2231] | 분해합 |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 | 05.01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1018][1018] | 체스판 다시 칠하기 | 05.02 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1436][1436] | 영화감독 숌 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1436][1436] | 영화감독 숌 | 05.03 | ✔ |
 
 ---
 
