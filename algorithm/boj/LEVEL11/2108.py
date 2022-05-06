@@ -7,42 +7,44 @@ N개의 수가 주어졌을 때, 네 가지 기본 통계값
 '''
 
 # 내 풀이
-a = int(input())
+n = int(input())
 
-b = []
-for i in range(a):
-    b += [int(input())]
-   
-def san(a):
-    return round(sum(a)/len(a))
-def joong(a):
-    a.sort()
-    return a[len(a)//2]
-def choi(a):
-    a.sort()
-    b = [0 for i in range(len(a))]
-    for i in range(len(a)):
-        b[i] = a.count(a[i])
-    for j in range(len(a)):
-        if b[j] != max(b):
-            a.pop(a[j])
-    if len(a) > max(b):
-        return a[max(b)]
-    else:
-        return a[0]
-def bum(a):
-    if len(a) == 1:
-        return 0
-    else:
-        return max(a) - min(a)
+nums = []
+for _ in range(n) :
+	nums.append(int(input()))
 
-c = b
-e = b
-d = b
-print(san(b))
-print(joong(c))
-print(choi(d))
-print(bum(e))
+    # 산술평균
+print(round(sum(nums)/n))
 
+    # 중앙값
+nums.sort()
+print(nums[int((n-1)/2)])
 
-# 모범 답안
+    # 최빈값
+counts = dict()
+for i in range(1,n+1) :
+	counts[i] = []
+
+maxCount = 1
+count = 1
+for j in range(1,n) :
+	if nums[j] == nums[j-1] :
+		count += 1
+	else :
+		counts[count].append(nums[j-1])
+		if maxCount < count : maxCount = count
+		count = 1
+	if j == n-1 : 
+		counts[count].append(nums[j])
+		if maxCount < count : maxCount = count
+
+if n == 1 :
+	counts[1].append(nums[0])
+
+counts[maxCount].sort()
+if len(counts[maxCount]) == 1 :
+	print(counts[maxCount][0])
+else :
+	print(counts[maxCount][1])
+    # 범위
+print(nums[-1]-nums[0])
