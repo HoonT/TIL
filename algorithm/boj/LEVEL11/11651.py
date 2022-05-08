@@ -1,5 +1,5 @@
 # 문제 : 좌표 정렬하기 2
-# 제출일 : 2022.. (:)
+# 제출일 : 2022.05.08 (09:00)
 '''
 2차원 평면 위의 점 N개가 주어진다. 
 좌표를 y좌표가 증가하는 순으로, 
@@ -21,3 +21,12 @@ for k in range(a):
     print('{} {}'.format(b[k][1], b[k][0]))
 
 # 모범 답안
+from sys import stdin, stdout
+
+def key(i):
+    x,y=i.split()
+    return int(x)/1000000+int(y)
+
+i=stdin.readlines()[1:]
+
+stdout.write(''.join(sorted(i, key=lambda x:key(x))))
