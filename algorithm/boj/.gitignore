@@ -3,3 +3,4 @@ test*.java
 test*.txt
 *.prob
 study*.java
+test*
