@@ -22,6 +22,7 @@
 | [재귀](#재귀) |
 | [브루트 포스](#브루트-포스) |
 | [정렬](#정렬) |
+| [집합과 맵](#집합과-맵) |
 | [정수론 및 조합론](#정수론-및-조합론) |
 | [백트래킹](#백트래킹) |
 <!-- Contents -->
@@ -156,9 +157,29 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1427][1427] | 소트인사이드 | 05.07 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11650][11650] | 좌표 정렬하기 |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11651][11651] | 좌표 정렬하기 2 | 05.08 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1181][1181] | 단어 정렬 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1181][1181] | 단어 정렬 | 05.09 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10814][10814] | 나이순 정렬 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [18870][18870] | 좌표 압축 |  |  |
+
+---
+
+### 집합과 맵
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10815][10815] | 숫자 카드 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1620][1620] | 나는야 포켓몬 마스터 이다솜 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1764][1764] | 듣보잡 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1269][1269] | 대칭 차집합 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11478][11478] | 서로 다른 부분 문자열의 개수 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
 
 ---
 
@@ -179,6 +200,12 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2004][2004] | 조합 0의 개수 |  |  |
 
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
+
 ---
 
 ### 백트래킹
@@ -193,6 +220,13 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2580][2580] | 스도쿠 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [14888][14888] | 연산자 끼워넣기 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [14889][14889] | 스타트와 링크 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
+
 <!-- ### -->
 
 </div>
@@ -277,6 +311,14 @@
 [1181]: https://www.acmicpc.net/problem/1181
 [10814]: https://www.acmicpc.net/problem/10814
 [18870]: https://www.acmicpc.net/problem/18870
+
+[10815]: https://www.acmicpc.net/problem/10815
+[14425]: https://www.acmicpc.net/problem/14425
+[1620]: https://www.acmicpc.net/problem/1620
+[10816]: https://www.acmicpc.net/problem/10816
+[1764]: https://www.acmicpc.net/problem/1764
+[1269]: https://www.acmicpc.net/problem/1269
+[11478]: https://www.acmicpc.net/problem/11478
 
 [5086]: https://www.acmicpc.net/problem/5086
 [1037]: https://www.acmicpc.net/problem/1037
