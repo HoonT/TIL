@@ -10,19 +10,16 @@ X1, X2, ..., XN에 좌표 압축을 적용한 결과 X'1, X'2, ..., X'N를 출�
 '''
 
 # 내 풀이
-a = int(input())
-b = list(map(int, input().split()))
+import sys
+input=sys.stdin.readline
+print=sys.stdout.write
 
-c = sorted(b)
-d = list(set(c))
-d.sort()
-output = [0*i for i in range(a)]
-
-for i in range(a):
-    output[i] += d.index(b[i])
-
-result = ' '.join(map(str, output))
-print(result)
+N=int(input())
+arr=list(map(int,input().split()))
+sort_arr=sorted(set(arr))
+arr_dict={i:v for v,i in enumerate(sort_arr)}
+for i in arr:
+    print(f'{arr_dict[i]} ')
 
 # 모범 답안
 n = input()
