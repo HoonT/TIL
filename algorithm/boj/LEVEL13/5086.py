@@ -1,5 +1,5 @@
 # 문제 : 배수와 약수
-# 제출일 : 2022.05. (:)
+# 제출일 : 2022.05.12 (10:00)
 '''
 각 테스트 케이스마다 첫 번째 숫자가 두 번째 숫자의 약수라면 factor를, 
 배수라면 multiple을, 둘 다 아니라면 neither를 출력한다.
@@ -19,3 +19,8 @@ while True:
             print("neither")
 
 # 모범 답안
+while 1:
+ a,b=map(int,input().split())
+ if a<1 and b<1:break
+ if b%a==0:print("factor")
+ else:print(["multiple","neither"][a%b>0])
