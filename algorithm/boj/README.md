@@ -23,6 +23,7 @@
 | [브루트 포스](#브루트-포스) |
 | [정렬](#정렬) |
 | [집합과 맵](#집합과-맵) |
+| [기하 1](#기하-1) |
 | [정수론 및 조합론](#정수론-및-조합론) |
 | [백트래킹](#백트래킹) |
 <!-- Contents -->
@@ -183,6 +184,28 @@
 
 ---
 
+### 기하 1
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [1085][1085] | 직사각형에서 탈출 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3009][3009] | 네 번째 점 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [4153][4153] | 직각삼각형 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3034][3034] | 앵그리 창영 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2477][2477] | 참외밭 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3053][3053] | 택시 기하학 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1002][1002] | 터렛 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1004][1004] | 어린 왕자 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1358][1358] | 하키 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
+
+---
+
 ### 정수론 및 조합론
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
@@ -319,6 +342,16 @@
 [1764]: https://www.acmicpc.net/problem/1764
 [1269]: https://www.acmicpc.net/problem/1269
 [11478]: https://www.acmicpc.net/problem/11478
+
+[1085]: https://www.acmicpc.net/problem/1085
+[3009]: https://www.acmicpc.net/problem/3009
+[4153]: https://www.acmicpc.net/problem/4153
+[3034]: https://www.acmicpc.net/problem/3034
+[2477]: https://www.acmicpc.net/problem/2477
+[3053]: https://www.acmicpc.net/problem/3053
+[1002]: https://www.acmicpc.net/problem/1002
+[1004]: https://www.acmicpc.net/problem/1004
+[1358]: https://www.acmicpc.net/problem/1358
 
 [5086]: https://www.acmicpc.net/problem/5086
 [1037]: https://www.acmicpc.net/problem/1037
