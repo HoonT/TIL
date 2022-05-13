@@ -1,5 +1,5 @@
 # 문제 : 약수
-# 제출일 : 2022.. (:)
+# 제출일 : 2022.05.13 (10:00)
 '''
 양수 A가 N의 진짜 약수가 되려면, 
 N이 A의 배수이고, A가 1과 N이 아니어야 한다. 
@@ -17,3 +17,8 @@ elif len(b) == 1:
     print(b[0]**2)
 
 # 모범 답안
+N=int(input())
+data=list(map(int,input().split()))
+
+data.sort()
+print(data[0]*data[-1])
