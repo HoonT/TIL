@@ -168,7 +168,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10815][10815] | 숫자 카드 |  |  |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10815][10815] | 숫자 카드 | 05.18 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1620][1620] | 나는야 포켓몬 마스터 이다솜 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 |  |  |
@@ -214,8 +214,8 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1037][1037] | 약수 | 05.13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2609][2609] | 최대공약수와 최소공배수 | 05.14 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1934][1934] | 최소공배수 | 05.15 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2981][2981] | 검문 |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [3036][3036] | 링 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2981][2981] | 검문 | 05.16 | ✔ |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [3036][3036] | 링 | 05.17 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [11050][11050] | 이항 계수 1 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11051][11051] | 이항 계수 2 |  |  |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1010][1010] | 다리 놓기 |  |  |
