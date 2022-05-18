@@ -7,14 +7,22 @@
 '''
 
 # 내 풀이
-import math
-
-a = int(input())
-b = list(map(int, input().split()))
-
-for i in range(1,a):
-    number1 = b[0]//math.gcd(b[0],b[i])
-    number2 = b[i]//math.gcd(b[0],b[i])
-    print('{}/{}'.format(number1,number2))
+import sys
+n = int(sys.stdin.readline().strip())
+getNum = set(map(int,sys.stdin.readline().split()))
+m = int(sys.stdin.readline().strip())
+checkNum = list(map(int,sys.stdin.readline().split()))
+for i in checkNum:
+    if i in getNum:
+        print(1)
+    else:
+        print(0)
 
 # 모범 답안
+import math
+n = int(input())
+dia = list(map(int, input().split()))
+    
+for i in range(1, n):
+    gcd = math.gcd(dia[0], dia[i])
+    print(str(dia[0]//gcd) + '/' + str(dia[i]//gcd))
