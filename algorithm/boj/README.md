@@ -169,7 +169,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10815][10815] | 숫자 카드 | 05.18 | ✔ |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 | 05.20 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1620][1620] | 나는야 포켓몬 마스터 이다솜 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1764][1764] | 듣보잡 |  |  |

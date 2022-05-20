@@ -1,5 +1,5 @@
 # 문제 : 문자열 집합
-# 제출일 : 2022.. (:)
+# 제출일 : 2022.05.20 (09:00)
 '''
 총 N개의 문자열로 이루어진 집합 S가 주어진다.
 입력으로 주어지는 M개의 문자열 중에서 
@@ -21,3 +21,12 @@ for i in range(b):
 
 print(result)
 # 모범 답안
+pr = open(0).read().split('\n')
+N, M = map(int, pr[0].split())
+S = set()
+for i in range(1,N+1):
+    S.add(pr[i])
+cnt = 0
+for j in range(M):
+    if pr[N+1+j] in S: cnt+=1
+print(cnt)
