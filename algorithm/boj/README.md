@@ -174,7 +174,7 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1620][1620] | 나는야 포켓몬 마스터 이다솜 | 05.21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 | 05.22 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1764][1764] | 듣보잡 | 05.26 | ✔ |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1269][1269] | 대칭 차집합 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1269][1269] | 대칭 차집합 | 05.27 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11478][11478] | 서로 다른 부분 문자열의 개수 |  |  |
 
 <div align=right>
