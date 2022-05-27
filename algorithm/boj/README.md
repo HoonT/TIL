@@ -189,13 +189,13 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [1085][1085] | 직사각형에서 탈출 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3009][3009] | 네 번째 점 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [4153][4153] | 직각삼각형 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3034][3034] | 앵그리 창영 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2477][2477] | 참외밭 |  |  |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3053][3053] | 택시 기하학 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1002][1002] | 터렛 |  |  |
+ | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [1085][1085] | 직사각형에서 탈출 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3009][3009] | 네 번째 점 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [4153][4153] | 직각삼각형 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3034][3034] | 앵그리 창영 | 05.27 | ✔ |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2477][2477] | 참외밭 | 05.27 | ✔ |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [3053][3053] | 택시 기하학 |  | ✔ |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1002][1002] | 터렛 |  | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1004][1004] | 어린 왕자 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1358][1358] | 하키 |  |  |
 
