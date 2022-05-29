@@ -236,7 +236,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15649][15649] | N과 M (1) |  |  |
+ | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15649][15649] | N과 M (1) | 05.30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15650][15650] | N과 M (2) |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15651][15651] | N과 M (3) |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15652][15652] | N과 M (4) |  |  |
