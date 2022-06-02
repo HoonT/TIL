@@ -10,24 +10,13 @@
 4. 길이가 K인 수열 A가 A1 ≤ A2 ≤ ... ≤ AK-1 ≤ AK를 만족하면, 비내림차순이라고 한다.
 '''
 
-# 내 풀이 - (메모리 초과)
-from itertools import product
+# 내 풀이
+from itertools import combinations_with_replacement
 
 n, m = map(int, input().split())
 b = [str(ms) for ms in range(1,n+1)]
-c = list(map(''.join, product(b, repeat = m)))
-d = []
-for i in range(len(c)):
-    d += [list(c[i])]
-    d[i].sort()
-
-result = []
-for value in d:
-    if value not in result:
-        result.append(value)
-        
-for j in range(len(result)):
-    print(' '.join(result[j]))
+c = list(map(' '.join, combinations_with_replacement(b, m)))
+print(*c, sep='\n')
 
 # 모범 답안
 n,m = map(int, input().split())
