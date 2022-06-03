@@ -27,6 +27,8 @@
 | [정수론 및 조합론](#정수론-및-조합론) |
 | [백트래킹](#백트래킹) |
 | [동적 계획법 1](#동적-계획법-1) |
+| [누적 합](#누적-합) |
+| [그리디 알고리즘](#그리디-알고리즘) |
 <!-- Contents -->
 
 ---
@@ -279,6 +281,42 @@
 [TOP](#백준boj-)
 
 </div>
+
+---
+
+### 누적 합
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11659][11659] | 구간 합 구하기 4 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2559][2559] | 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [16139][16139] | 인간-컴퓨터 상호작용 |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10986][10986] | 나머지 합 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11660][11660] | 구간 합 구하기 5 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
+
+---
+
+### 그리디 알고리즘
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11047][11047] | 동전 0 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1931][1931] | 회의실 배정 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11399][11399] | ATM |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [13305][13305] | 주유소 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
 <!-- ### -->
 
 </div>
@@ -420,3 +458,15 @@
 [2565]: https://www.acmicpc.net/problem/2565
 [9251]: https://www.acmicpc.net/problem/9251
 [12865]: https://www.acmicpc.net/problem/12865
+
+[11659]: https://www.acmicpc.net/problem/11659
+[2559]: https://www.acmicpc.net/problem/2559
+[16139]: https://www.acmicpc.net/problem/16139
+[10986]: https://www.acmicpc.net/problem/10986
+[11660]: https://www.acmicpc.net/problem/11660
+
+[11047]: https://www.acmicpc.net/problem/11047
+[1931]: https://www.acmicpc.net/problem/1931
+[11399]: https://www.acmicpc.net/problem/11399
+[1541]: https://www.acmicpc.net/problem/1541
+[13305]: https://www.acmicpc.net/problem/13305
