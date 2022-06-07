@@ -6,6 +6,19 @@
 '''
 
 # 내 풀이
+def fib(n):
+    cnt = 0
+    if n == 1 or n ==2:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
 
+n = int(input())
+print('{} {}'.format(fib(n), n-2))
 
 # 모범 답안
+N=int(input())
+a=b=1
+for _ in range(N-2):
+    a,b=b,a+b
+print(b,N-2)
