@@ -273,7 +273,7 @@
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11053][11053] | 가장 긴 증가하는 부분 수열 | 06.18 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11054][11054] | 가장 긴 바이토닉 부분 수열 | 06.19 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2565][2565] | 전깃줄 | 06.20 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9251][9251] | LCS |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9251][9251] | LCS | 06.21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12865][12865] | 평범한 배낭 |  |  |
 
 <div align=right>
