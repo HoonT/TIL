@@ -291,7 +291,7 @@
  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11659][11659] | 구간 합 구하기 4 | 06.23 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2559][2559] | 수열 | 06.24 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [16139][16139] | 인간-컴퓨터 상호작용 | 06.25 | ✔ |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10986][10986] | 나머지 합 |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10986][10986] | 나머지 합 | 06.26 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11660][11660] | 구간 합 구하기 5 |  |  |
 
 <div align=right>
