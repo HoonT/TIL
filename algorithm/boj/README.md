@@ -29,6 +29,8 @@
 | [동적 계획법 1](#동적-계획법-1) |
 | [누적 합](#누적-합) |
 | [그리디 알고리즘](#그리디-알고리즘) |
+| [스택](#스택) |
+| [큐, 덱](#큐-덱) |
 <!-- Contents -->
 
 ---
@@ -317,6 +319,45 @@
 [TOP](#백준boj-)
 
 </div>
+
+---
+
+### 스택
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10828][10828] | 스택 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10773][10773] | 제로 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [9012][9012] | 괄호 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
+
+---
+
+### 큐, 덱
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [18258][18258] | 큐 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2164][2164] | 카드2 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11866][11866] | 요세푸스 문제 0 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1966][1966] | 프린터 큐 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10866][10866] | 덱 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1021][1021] | 회전하는 큐 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [5430][5430] | AC |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
 <!-- ### -->
 
 </div>
@@ -470,3 +511,18 @@
 [11399]: https://www.acmicpc.net/problem/11399
 [1541]: https://www.acmicpc.net/problem/1541
 [13305]: https://www.acmicpc.net/problem/13305
+
+[10828]: https://www.acmicpc.net/problem/10828
+[10773]: https://www.acmicpc.net/problem/10773
+[9012]: https://www.acmicpc.net/problem/9012
+[4949]: https://www.acmicpc.net/problem/4949
+[1874]: https://www.acmicpc.net/problem/1874
+[17298]: https://www.acmicpc.net/problem/17298
+
+[18258]: https://www.acmicpc.net/problem/18258
+[2164]: https://www.acmicpc.net/problem/2164
+[11866]: https://www.acmicpc.net/problem/11866
+[1966]: https://www.acmicpc.net/problem/1966
+[10866]: https://www.acmicpc.net/problem/10866
+[1021]: https://www.acmicpc.net/problem/1021
+[5430]: https://www.acmicpc.net/problem/5430
