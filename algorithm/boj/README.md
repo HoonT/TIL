@@ -326,7 +326,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10828][10828] | 스택 |  |  |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10828][10828] | 스택 | 07.03 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10773][10773] | 제로 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [9012][9012] | 괄호 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 |  |  |
