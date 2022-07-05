@@ -329,7 +329,7 @@
  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10828][10828] | 스택 | 07.03 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10773][10773] | 제로 | 07.04 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [9012][9012] | 괄호 | 07.04 | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 | 07.05 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
 
