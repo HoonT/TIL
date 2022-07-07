@@ -31,6 +31,8 @@
 | [그리디 알고리즘](#그리디-알고리즘) |
 | [스택](#스택) |
 | [큐, 덱](#큐-덱) |
+| [분할 정복](#분할-정복) |
+| [이분 탐색](#이분-탐색) |
 <!-- Contents -->
 
 ---
@@ -358,6 +360,48 @@
 [TOP](#백준boj-)
 
 </div>
+
+---
+
+### 분할 정복
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2630][2630] | 색종이 만들기 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1992][1992] | 쿼드트리 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1780][1780] | 종이의 개수 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1629][1629] | 곱셈 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11401][11401] | 이항 계수 3 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2740][2740] | 행렬 곱셈 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10830][10830] | 행렬 제곱 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11444][11444] | 피보나치 수 6 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [6549][6549] | 히스토그램에서 가장 큰 직사각형 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
+
+---
+
+### 이분 탐색
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1920][1920] | 수 찾기 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1654][1654] | 랜선 자르기 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2805][2805] | 나무 자르기 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2110][2110] | 공유기 설치 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1300][1300] | K번째 수 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12015][12015] | 가장 긴 증가하는 부분 수열 2 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
 <!-- ### -->
 
 </div>
@@ -526,3 +570,21 @@
 [10866]: https://www.acmicpc.net/problem/10866
 [1021]: https://www.acmicpc.net/problem/1021
 [5430]: https://www.acmicpc.net/problem/5430
+
+[2630]: https://www.acmicpc.net/problem/2630
+[1992]: https://www.acmicpc.net/problem/1992
+[1780]: https://www.acmicpc.net/problem/1780
+[1629]: https://www.acmicpc.net/problem/1629
+[11401]: https://www.acmicpc.net/problem/11401
+[2740]: https://www.acmicpc.net/problem/2740
+[10830]: https://www.acmicpc.net/problem/10830
+[11444]: https://www.acmicpc.net/problem/11444
+[6549]: https://www.acmicpc.net/problem/6549
+
+[1920]: https://www.acmicpc.net/problem/1920
+[10816]: https://www.acmicpc.net/problem/10816
+[1654]: https://www.acmicpc.net/problem/1654
+[2805]: https://www.acmicpc.net/problem/2805
+[2110]: https://www.acmicpc.net/problem/2110
+[1300]: https://www.acmicpc.net/problem/1300
+[12015]: https://www.acmicpc.net/problem/12015
