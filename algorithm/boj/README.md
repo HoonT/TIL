@@ -331,7 +331,7 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [9012][9012] | 괄호 | 07.04 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 | 07.05 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 | 07.06 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 | 07.07 | ✔ |
 
 <div align=right>
 
