@@ -331,7 +331,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [18258][18258] | 큐 2 | 07.08 | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2164][2164] | 카드2 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2164][2164] | 카드2 | 07.09 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11866][11866] | 요세푸스 문제 0 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1966][1966] | 프린터 큐 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10866][10866] | 덱 |  |  |
