@@ -1,5 +1,5 @@
 # [TIL][Python] Boj - No.13460 (구슬 탈출 2)
-## 제출일 : 2022.07.12 (10:30)
+## 제출일 : 2022.07.12 (13:00)
 '''
 구슬 탈출은 직사각형 보드에 빨간 구슬과 파란 구슬을 하나씩 넣은 다음, 빨간 구슬을 구멍을 통해 빼내는 게임이다.
 
@@ -24,6 +24,60 @@
 '''
 
 ## 내 풀이
+from sys import stdin
+from collections import deque
+input = stdin.readline
 
+n, m = list(map(int, input().split()))
+table = [list(input().strip()) for _ in range(n)]
+check = [[[[False]*m for _ in range(n)] for _ in range(m)] for _ in range(n)]
+dx = (-1,0,1,0)
+dy = (0,1,0,-1)
+deq = deque()
+
+def start():
+    rx, ry, bx, by = [0]*4
+    for i in range(n):
+        for j in range(m):
+            if table[i][j] == 'R':
+                rx, ry = i, j
+            elif table[i][j] == 'B':
+                bx, by = i, j
+    deq.append((rx,ry,bx,by,0))
+    check[rx][ry][bx][by] = True
+
+def move(x, y, dx, dy, c):
+    while table[x+dx][y+dy] != '#' and table[x][y] != 'O':
+        x += dx
+        y += dy
+        c += 1
+    return x, y, c
+
+def bfs():
+    while deq:
+        rx, ry, bx, by, d = deq.popleft()
+        if d >= 10:
+            break
+        for i in range(4):
+            _rx, _ry, r_cnt = move(rx, ry, dx[i], dy[i], 0)
+            _bx, _by, b_cnt = move(bx, by, dx[i], dy[i], 0)
+            if table[_bx][_by] == 'O':
+                continue
+            if table[_rx][_ry] == 'O':
+                print(d+1)
+                return
+            if _rx == _bx and _ry == _by:
+                if r_cnt > b_cnt:
+                    _rx -= dx[i]
+                    _ry -= dy[i]
+                else:
+                    _bx -= dx[i]
+                    _by -= dy[i]
+            if not check[_rx][_ry][_bx][_by]:
+                check[_rx][_ry][_bx][_by] = True
+                deq.append((_rx, _ry, _bx, _by, d+1))
+    print(-1)
+start()
+bfs()
 
 ## 피드백
