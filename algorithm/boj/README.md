@@ -336,7 +336,7 @@
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1966][1966] | 프린터 큐 | 07.11 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10866][10866] | 덱 | 07.12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1021][1021] | 회전하는 큐 | 07.13 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [5430][5430] | AC |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [5430][5430] | AC | 07.14 | ✔ |
 
 <div align=right>
 
