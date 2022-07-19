@@ -354,7 +354,7 @@
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1992][1992] | 쿼드트리 | 07.16 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1780][1780] | 종이의 개수 | 07.17 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1629][1629] | 곱셈 | 07.18 | ✔ |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11401][11401] | 이항 계수 3 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11401][11401] | 이항 계수 3 | 07.19 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2740][2740] | 행렬 곱셈 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10830][10830] | 행렬 제곱 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11444][11444] | 피보나치 수 6 |  |  |
